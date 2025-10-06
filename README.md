@@ -1,4 +1,4 @@
-# Store Inventory
+# 🖥️ Store Inventory
 
 Store Inventory is a lightweight desktop application to manage a clothing store's stock. It allows adding products with variants (size, color), tracking stock levels, recording inventory sessions (counts/adjustments), and viewing history of stock movements.
 
