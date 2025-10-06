@@ -1,0 +1,25 @@
+# En la raíz del proyecto (donde estás ahora), crea/reescribe .gitignore con plantilla básica:
+Set-Content -Path .gitignore -Value @"
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+"@
+# Añadir el .gitignore primero
+git add .gitignore
+git commit -m "Agregar .gitignore (ignorar archivos de Visual Studio)" --allow-empty
+# Ahora intenta añadir el resto
+git add .
