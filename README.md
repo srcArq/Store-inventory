@@ -46,5 +46,4 @@ Quick Actions: Increase/Decrease stock, search for products, export a CSV file o
 <p align="center">
   <img src="images/Gestio inventari 10.png" alt="Pantalla 10" width="300" />
   <img src="images/Gestio inventari 11.png" alt="Pantalla 11" width="300" />
-  <img src="images/Gestio inventari 12.png" alt="Pantalla 12" width="300" />
 </p>
